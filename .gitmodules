@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Charlito7/AuraBe-Dashboard.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Charlito7/Aurabe-POS.git
